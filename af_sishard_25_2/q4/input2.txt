@@ -1,0 +1,2 @@
+Linha 1 do arq 2.
+Linha 2.
